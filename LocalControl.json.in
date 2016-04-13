@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"LocalControl\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"Nemerle\",
+    \"Copyright\" : \"(C) Nemerle\",
+    \"License\" : \"BSD 2-Clause\",
+    \"Description\" : \"Control QtCreator using a local socket\",
+    \"Url\" : \"https://github.com/nemerle/QtCreator-LocalControl-plugin\",
+    $$dependencyList
+}
